@@ -9,7 +9,7 @@ I didn't start in infrastructure — I started in product and marketing, learnin
 - 🎯 Spent ~4 years as a **UX Product Owner at NextEra Energy**, running digital initiatives end-to-end across Agile teams — before that, several years in B2B digital marketing and sales
 - 🔁 Made the deliberate switch into systems administration, training through **Yellow Tail Tech**, and stacking certifications fast: **RHCSA (2025)**, **CCNA (2024)**, **Security+ (2026)**
 - 🛠️ Currently a **Linux System Administrator at Pro-Core Plus** (remote), handling ticket-driven support across identity management, networking, automation, and security hardening on RHEL/CentOS
-- 🎯 Now targeting **Linux/systems engineering roles in defense and government contracting**, where the combination of technical depth and cross-functional business background is an asset, not a detour
+- 🎯 Now targeting **Linux/systems engineering roles. 
 
 ## What I Work With
 
